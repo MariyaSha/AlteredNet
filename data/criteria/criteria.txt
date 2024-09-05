@@ -1,0 +1,150 @@
+0, remove glasses
+1, remove happiness
+2, remove skin texture
+3, add hat
+4, remove skin texture
+5, add mustache
+6, add glasses
+7, add hat
+8, add happiness
+9, add glasses
+10, add hat
+11, remove mustache
+12, remove hat
+13, add age
+14, remove skin texture
+15, add hat
+16, remove mustache
+17, remove happiness
+18, add age
+19, remove glasses
+20, add glasses
+21, remove hat
+22, add mustache
+23, add age
+24, add mustache
+25, remove glasses
+26, remove skin texture
+27, add happiness
+28, add glasses
+29, add mustache
+30, remove skin texture
+31, remove hat
+32, add age
+33, remove glasses
+34, remove hat
+35, add glasses
+36, remove skin texture
+37, remove mustache
+38, remove mustache
+39, add hat
+40, add happiness
+41, remove happiness
+42, add age
+43, add hat
+44, remove skin texture
+45, remove happiness
+46, remove glasses
+47, add glasses
+48, add age
+49, remove mustache
+50, remove mustache
+51, add happiness
+52, remove hat
+53, add happiness
+54, remove happiness
+55, add mustache
+56, remove hat
+57, add mustache
+58, remove glasses
+59, remove happiness
+60, add happiness
+61, add age
+62, remove glasses
+63, remove hat
+64, remove mustache
+65, remove happiness
+66, add glasses
+67, add mustache
+68, add happiness
+69, add hat
+70, remove skin texture
+71, remove glasses
+72, remove hat
+73, remove happiness
+74, add hat
+75, add mustache
+76, add age
+77, remove mustache
+78, remove hat
+79, add glasses
+80, add happiness
+81, remove glasses
+82, add glasses
+83, remove mustache
+84, remove glasses
+85, add age
+86, add happiness
+87, remove skin texture
+88, remove hat
+89, add mustache
+90, add age
+91, add hat
+92, remove happiness
+93, remove mustache
+94, add happiness
+95, add hat
+96, remove skin texture
+97, remove happiness
+98, add glasses
+99, add mustache
+100, remove skin texture
+101, remove mustache
+102, remove glasses
+103, remove hat
+104, remove happiness
+105, add glasses
+106, add happiness
+107, add age
+108, add mustache
+109, add hat
+110, remove skin texture
+111, remove mustache
+112, remove hat
+113, add hat
+114, remove hat
+115, remove mustache
+116, add age
+117, remove glasses
+118, add glasses
+119, add happiness
+120, add age
+121, add mustache
+122, remove happiness
+123, remove glasses
+124, add glasses
+125, add happiness
+126, remove happiness
+127, add mustache
+128, remove skin texture
+129, add hat
+130, remove hat
+131, remove glasses
+132, add glasses
+133, remove skin texture
+134, remove happiness
+135, remove mustache
+136, remove happiness
+137, add age
+138, add happiness
+139, add hat
+140, add mustache
+141, remove glasses
+142, add happiness
+143, remove skin texture
+144, add glasses
+145, remove hat
+146, remove mustache
+147, add hat
+148, add mustache
+149, add age
