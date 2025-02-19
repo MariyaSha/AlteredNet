@@ -7,8 +7,9 @@ AlteredNet is a dataset of human photos that stores two versions of each image, 
 - class 0: digitally modified images.
 - class 1: real images.
 
+## Modification Criteria
 Each real image from class 1 is modified based on a single criteria such as an increase in age, or happiness. The modification criteria can be used as a sub-class, dividing the samples into 10 classes, in addition to the main 2.
-
+<br>
 <img src="https://github.com/user-attachments/assets/35bb210a-79d1-4a66-9934-968063f1d303" width="600px">
 
 ## Requirements
